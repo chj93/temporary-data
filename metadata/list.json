@@ -10,10 +10,10 @@
     },
     {
       "id": 2,
-      "name": "S14-00944-3O TSP-High CK",
-      "url": "http://seadragon.arontier.co/metadata/S14-00944-3O TSP-High CK.json",
-      "thumbnail": "http://seadragon.arontier.co/images/S14-00944-3O TSP-High CK.thumb.jpeg",
-      "dialogImage": "http://seadragon.arontier.co/images/S14-00944-3O TSP-High CK.jpeg"
+      "name": "sample",
+      "url": "https://raw.githubusercontent.com/chj93/temporary-data/master/metadata/S14-01899-4N%20TSP-High%20CK.json",
+      "thumbnail": "https://raw.githubusercontent.com/chj93/temporary-data/master/thumbnail/sample.png",
+      "dialogImage": "https://raw.githubusercontent.com/chj93/temporary-data/master/thumbnail/sample.png"
     },
     {
       "id": 3,
