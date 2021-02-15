@@ -4,9 +4,9 @@
     {
       "id": 1,
       "name": "duomo",
-      "url": "x-github-client://openRepo/https://github.com/chj93/temporary-data?branch=master&filepath=metadata%2Fduomo.json",
-      "thumbnail": "x-github-client://openRepo/https://github.com/chj93/temporary-data?branch=master&filepath=thumbnail%2Fduomo.png",
-      "dialogImage": "http://seadragon.arontier.co/images/S14-00088-3P TSP-Low CK.jpeg"
+      "url": "https://raw.githubusercontent.com/chj93/temporary-data/master/metadata/duomo.json",
+      "thumbnail": "https://raw.githubusercontent.com/chj93/temporary-data/master//thumbnail/duomo.png",
+      "dialogImage": "https://raw.githubusercontent.com/chj93/temporary-data/master//thumbnail/duomo.png"
     },
     {
       "id": 2,
