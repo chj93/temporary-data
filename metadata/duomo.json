@@ -5,11 +5,11 @@
       "description": "duomo",
       "created": "2012-09-19T11:03:39-08:00",
       "mpp": "0.2530",
-      "thumbnail": "x-github-client://openRepo/https://github.com/chj93/temporary-data?branch=master&filepath=thumbnail%2Fduomo.png"
+      "thumbnail": "https://raw.githubusercontent.com/chj93/temporary-data/master/thumbnail/duomo.png"
     },
     "Image": {
       "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
-      "Url": "x-github-client://openRepo/https://github.com/chj93/temporary-data?branch=master&filepath=metadata%2Fduomo.json",
+      "Url": "https://raw.githubusercontent.com/chj93/temporary-data/master/metadata/duomo.json",
       "Format": "jpeg",
       "Overlap": "2",
       "TileSize": "256",
