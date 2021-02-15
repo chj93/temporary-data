@@ -6,7 +6,7 @@
       "description": "sample",
       "created": "2012-09-19T11:03:39-08:00",
       "mpp": "0.2530",
-      "thumbnail": ""
+      "thumbnail": "https://raw.githubusercontent.com/chj93/temporary-data/master/thumbnail/sample.png"
     },
     "Image": {
       "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
