@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "fileList": [
+    {
+      "id": 1,
+      "name": "duomo",
+      "url": "//openseadragon.github.io/example-images/duomo/duomo_files/",
+      "thumbnail": "http://seadragon.arontier.co/images/S14-00088-3P TSP-Low CK.thumb.jpeg",
+      "dialogImage": "http://seadragon.arontier.co/images/S14-00088-3P TSP-Low CK.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "S14-00944-3O TSP-High CK",
+      "url": "http://seadragon.arontier.co/metadata/S14-00944-3O TSP-High CK.json",
+      "thumbnail": "http://seadragon.arontier.co/images/S14-00944-3O TSP-High CK.thumb.jpeg",
+      "dialogImage": "http://seadragon.arontier.co/images/S14-00944-3O TSP-High CK.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "S14-01013-T TSP-High CK",
+      "url": "http://seadragon.arontier.co/metadata/S14-01013-T TSP-High CK.json",
+      "thumbnail": "http://seadragon.arontier.co/images/S14-01013-T TSP-High CK.thumb.jpeg",
+      "dialogImage":"http://seadragon.arontier.co/images/S14-01013-T TSP-High CK.jpeg"
+    }
+  ]
+}

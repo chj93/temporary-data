@@ -1,0 +1,107 @@
+{
+  "version": "0.1",
+  "image": {
+    "metadata": {
+      "source": "S14-00944-3O TSP-High CK.svs",
+      "description": "duomo",
+      "created": "2012-09-19T11:03:39-08:00",
+      "mpp": "0.2530",
+      "thumbnail": "http://seadragon.arontier.co/images/S14-00944-3O TSP-High CK.thumb.jpeg"
+    },
+    "Image": {
+      "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
+      "Url": "//openseadragon.github.io/example-images/duomo/duomo_files/",
+      "Format": "jpeg",
+      "Overlap": "2",
+      "TileSize": "256",
+      "Size": {
+        "Height": "13920",
+        "Width": "10200"
+      }
+    }
+  },
+  "payloadsMetadata": {
+    "generator": "",
+    "generatorVersion": "",
+    "created": "",
+    "updated": ""
+  },
+  "payloads": [
+    {
+      "metadata": {
+        "id": 0,
+        "left": 0,
+        "top": 0,
+        "type": "typeA"
+      },
+      "points": [
+        {"x": 0, "y": 0},
+        {"x": 1000, "y": 0},
+        {"x": 1000, "y": 1000},
+        {"x": 0, "y": 1000}
+      ]
+    },
+    {
+      "metadata": {
+        "id": 1,
+        "left": 6960,
+        "top": 5100,
+        "type": "typeB"
+      },
+      "points": [
+        {"x": 0, "y": 0},
+        {"x": 1000, "y": 0},
+        {"x": 1000, "y": 1000},
+        {"x": 0, "y": 1000}
+      ]
+    },
+    {
+      "metadata": {
+        "id": 2,
+        "left": 7200,
+        "top": 3000,
+        "type": "typeC"
+      },
+      "points": [
+        {"x": 0, "y": 0},
+        {"x": 300, "y": 500},
+        {"x": 0, "y": 1000},
+        {"x": -300, "y": 1000},
+        {"x": -300, "y": 0}
+
+      ]
+    },
+    {
+      "metadata": {
+        "id": 3,
+        "left": 100,
+        "top": 6000,
+        "type": "typeB"
+      },
+      "points": [
+        {"x": 0, "y": 0},
+        {"x": 300, "y": 500},
+        {"x": 0, "y": 1000},
+        {"x": -300, "y": 1000},
+        {"x": -300, "y": 0}
+
+      ]
+    },
+    {
+      "metadata": {
+        "id": 4,
+        "left": 9000,
+        "top": 1000,
+        "type": "typeA"
+      },
+      "points": [
+        {"x": 0, "y": 0},
+        {"x": 300, "y": 500},
+        {"x": 0, "y": 1000},
+        {"x": -300, "y": 1000},
+        {"x": -300, "y": 0},
+        {"x": -600, "y": 500}
+      ]
+    }
+  ]
+}
