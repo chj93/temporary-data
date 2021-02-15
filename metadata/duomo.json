@@ -7,17 +7,16 @@
       "mpp": "0.2530",
       "thumbnail": "https://raw.githubusercontent.com/chj93/temporary-data/master/thumbnail/duomo.png"
     },
-    "Image": {
-      "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
-      "Url": "https://raw.githubusercontent.com/chj93/temporary-data/master/metadata/duomo.json",
-      "Format": "jpeg",
-      "Overlap": "2",
-      "TileSize": "256",
-      "Size": {
-        "Height": "13920",
-        "Width": "10200"
+Image: {
+      xmlns: "http://schemas.microsoft.com/deepzoom/2008",
+      Url:  "//openseadragon.github.io/example-images/duomo/duomo_files/",
+      Format: "jpg",
+      Overlap: "2",
+      TileSize: "256",
+      Size: {
+          Width: "13920",
+          Height: "10200"
       }
-    }
   },
   "payloadsMetadata": {
     "generator": "",
