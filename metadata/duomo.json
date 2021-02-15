@@ -2,11 +2,10 @@
   "version": "0.1",
   "image": {
     "metadata": {
-      "source": "S14-00944-3O TSP-High CK.svs",
       "description": "duomo",
       "created": "2012-09-19T11:03:39-08:00",
       "mpp": "0.2530",
-      "thumbnail": "http://seadragon.arontier.co/images/S14-00944-3O TSP-High CK.thumb.jpeg"
+      "thumbnail": "x-github-client://openRepo/https://github.com/chj93/temporary-data?branch=master&filepath=thumbnail%2Fduomo.png"
     },
     "Image": {
       "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
