@@ -2,21 +2,21 @@
   "version": "0.1",
   "image": {
     "metadata": {
-      "source": "S14-01899-4N TSP-High CK.svs",
-      "description": "S14-01899-4N TSP-High CK",
+      "source": "",
+      "description": "sample",
       "created": "2012-09-19T11:03:39-08:00",
       "mpp": "0.2530",
-      "thumbnail": "http://seadragon.arontier.co/images/S14-01899-4N TSP-High CK.thumb.jpeg"
+      "thumbnail": ""
     },
     "Image": {
       "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
-      "Url": "http://seadragon.arontier.co/images/S14-01899-4N TSP-High CK_files/",
-      "Format": "jpeg",
-      "Overlap": "1",
-      "TileSize": "254",
+      "Url": "/example-images/highsmith/highsmith_files/",
+      "Format": "jpg",
+      "Overlap": "2",
+      "TileSize": "256",
       "Size": {
-        "Height": "89222",
-        "Width": "113544"
+        "Height": "9221",
+        "Width": "7026"
       }
     }
   },
